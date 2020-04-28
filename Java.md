@@ -37,7 +37,7 @@ public class Main {
 }
 ```
 
-![stack_heap](./asset\stack_heap.JPG)
+![stack_heap](./asset/stack_heap.JPG)
 
 stack에 url이 올라가고 heap에 String https:// 가 올라간다
 
