@@ -4,7 +4,7 @@ Aspect-oriented-programming(AOP)은 OOP를 보완하는 수단으로, 흩어진 
 
 
 
-![AOP](./asset/AOP.jpg)
+![AOP](./asset/AOP.JPG)
 
 
 
