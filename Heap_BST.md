@@ -122,5 +122,4 @@ O(logn)
 
   4 - 7 - 13 - 1 - 6 - 14 - 3 - 10 - 8
 
-
-
+출처 : https://namu.wiki/w/%ED%8A%B8%EB%A6%AC(%EA%B7%B8%EB%9E%98%ED%94%84)
