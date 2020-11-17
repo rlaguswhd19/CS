@@ -94,8 +94,6 @@ O(logn)
 
 ![bst_delete3](.\asset\bst_delete3.JPG)
 
-
-
 출처 : https://mattlee.tistory.com/30
 
 
