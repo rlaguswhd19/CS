@@ -37,7 +37,7 @@ O(logn)
 
 
 
-![heap_index](.\asset\heap_index.JPG)
+<img src=".\asset\heap_index.JPG" alt="heap_insert" />
 
 #### 힙 삽입
 
@@ -70,7 +70,7 @@ O(logn)
 
 * 왼쪽 자식은 부모보다 작고 오른쪽 자식은 부모보다 크다.
 
-  ![bst](.\asset\bst.JPG)
+  <img src=".\asset\bst.JPG" alt="bst" />
 
 
 
@@ -78,21 +78,21 @@ O(logn)
 
 탐색을 해서 비어있는 부분에 넣어준다.
 
-![bst_insert](.\asset\bst_insert.JPG)
+<img src=".\asset\bst_insert.JPG" alt="bst_insert" />
 
 #### BST 삭제
 
 1. 자식노드가 없는 노드 삭제 : 해당 노드를 단순히 삭제한다.
 
-![bst_delete1](.\asset\bst_delete1.JPG)
+<img src=".\asset\bst_delete1.JPG" alt="bst_delete1" />
 
 2. 자식노드가 1개인 노드 삭제 : 해상 노드를 삭제하고 그 위치에 해당 노드의 자식 노드를 대입한다.
 
-![bst_delete2](.\asset\bst_delete2.JPG)
+<img src=".\asset\bst_delete2.JPG" alt="bst_delete2" />
 
 3. 자식노드가 2개인 노드 삭제 : 삭제하고자 하는 노드의 값을 해당 노드의 왼쪽 서브트리에서 가장 큰값으로 변경하거나, 오른쪽 서브트리에서 가장 작은 값으로 변경한 뒤, 해당 노드를 삭제한다.
 
-![bst_delete3](.\asset\bst_delete3.JPG)
+<img src=".\asset\bst_delete3.JPG" alt="bst_delete3" />
 
 출처 : https://mattlee.tistory.com/30
 
